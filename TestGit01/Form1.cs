@@ -16,5 +16,10 @@ namespace TestGit01
             InitializeComponent();
 
         }
+
+        private void toolStripMenuItem2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("aa");
+        }
     }
 }
